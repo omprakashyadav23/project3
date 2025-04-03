@@ -1,2 +1,2 @@
 # project3
-This is Project3
+This is Project3.
